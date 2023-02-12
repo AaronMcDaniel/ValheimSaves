@@ -1,0 +1,7 @@
+*.log
+*.txt
+characters/
+characters_local/
+serverlist/
+serverlist_local/
+worlds/
